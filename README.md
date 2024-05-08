@@ -4,6 +4,10 @@
 
 Desinr LFO is a Max4Live device designed to generate unique Low-Frequency Oscillator waveforms that can be mapped to control parameters within Ableton Live. Unlike traditional LFO generators, Desinr LFO intentionally approximates waveforms with imperfections, resulting in interesting and broken forms that often exhibit intrinsic rhythmic qualities.
 
+<center>
+  <img src="desinrLFO_preview.png" width="600">
+</center>
+
 ## Features
 
 - Control the accuracy of Fourier and Taylor approximations for waveform generation.
