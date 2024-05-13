@@ -17,11 +17,11 @@ Desinr LFO is a Max4Live device designed to generate unique Low-Frequency Oscill
   
 ## Installation
 
-1. Download the `Desinr_LFO` folder from the repository.
+1. Download the `desinr LFO.amdx` folder from the repository.
 2. Place the folder in your Max for Live devices folder.
 
 ## Usage
 
-1. Drag and drop the `Desinr_LFO` device onto a MIDI or audio track in Ableton Live.
+1. Drag and drop the `desinr LFO.amdx` device onto a MIDI or audio track in Ableton Live.
 2. Configure the parameters of the LFO waveform as desired.
 3. Map the generated LFO waveform to control various parameters within Ableton Live.
