@@ -10,15 +10,15 @@ Desinr LFO is a Max4Live device designed to generate unique Low-Frequency Oscill
 
 ## Features
 
-- Control the accuracy of Fourier and Taylor approximations for waveform generation.
-- Save and load presets for easy recall of favorite settings.
-- Use the POWER control to add versatility to waveform shaping.
-- Easily map generated LFOs to control parameters within Ableton Live.
-  
+- **Fine-tune harmonics relevance:** Control the accuracy of the approximation via Fourier series to adjust the significance and density of harmonics in waveform generation.
+- **Adjust sinuisodal shape:** Choose the degree of approximation of the Taylor series to adjust the exactness and smoothness of the sinuisodal components.
+- **Dynamic waveform shaping:** Utilize the POWER control to add versatility to waveform shaping.
+- **Preset management:** Save and load presets for easy recall of favorite settings.
+
 ## Installation
 
-1. Download the `desinr LFO.amdx` folder from the repository.
-2. Place the folder in your Max for Live devices folder.
+1. Download the `Desinr LFO` folder from the repository.
+2. Place the folder in your 'Max Audio Effect' folder.
 
 ## Usage
 
