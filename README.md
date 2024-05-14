@@ -18,7 +18,7 @@ Desinr LFO is a Max4Live device designed to generate unique Low-Frequency Oscill
 ## Installation
 
 1. Download the `Desinr LFO` folder from the repository.
-2. Place the folder in your 'Max Audio Effect' folder.
+2. Place the folder in your `Max Audio Effect` folder.
 
 ## Usage
 
